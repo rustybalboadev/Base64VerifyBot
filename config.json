@@ -1,0 +1,9 @@
+{
+    "bot_token": "YOUR BOT TOKEN",
+    "verification_channelID": "CHANNEL ID WHERE VERIFICATION MESSAGES WILL BE SENT",
+    "guild_ID": "SERVER ID",
+    "verification_role_name": "ROLE NAME TO GIVE WHEN COMPLETED VERIFICATION",
+    "muted_role": "MUTED ROLE NAME",
+    "server_invite": "YOUR DISCORD INVITE LINK",
+    "questions": ["eW91IHBhc3NlZA==", "dGhpcyB3YXMgZWFzeQ==", "dGhhbmtzIGZvciBqb2luaW5n", "ZW5qb3kgeW91ciBzdGF5", "dGhhbmtzIGZvciBub3QgYmVpbmcgYW5vbnltb3Vz", "ZW5qb3kgeW91ciBzdGF5", "aW52aXRlIHlvdXIgZnJpZW5kcyE="]
+}
